@@ -1,4 +1,4 @@
-<image src="images/capture.png">
-<image src="images/capture1.png">
-]<image src="images/capture3.png">
-<image src="images/capture4.png">
+<image src="images/Capture.png">
+<image src="images/Capture1.png">
+]<image src="images/Capture3.png">
+<image src="images/Capture4.png">

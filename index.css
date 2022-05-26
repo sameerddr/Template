@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(26, 23, 23);
+}
+
+.navbar {
+    display: flex;
+}
+
+.container {
+    color: white;
+    display: flex;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    padding-right: 80px;
+    font-size: larger;
+}
+
+.nav {
+    color: white;
+    padding-top: 40px;
+    padding-left: 100px;
+}
+
+.button {
+    padding-top: 35px;
+    padding-left: 300px;
+}
+
+button {
+    padding: 8px;
+}
+
+.box {
+    display: flex;
+}
+
+.image {
+    padding: 70px;
+}
+
+.text {
+    padding: 70px;
+}
+
+h3 {
+    color: aqua;
+    font-size: xx-large;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.text button {
+    /* padding: 10px; */
+    padding-left: 60px;
+    padding-right: 60px;
+    margin: 15px;
+}
